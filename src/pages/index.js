@@ -110,7 +110,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         Reload
         <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
+        <span style={headingAccentStyles}>— Eu fiz um Gatsby site pro Reload! </span>
         <span role="img" aria-label="Party popper emojis">
           🎉🎉🎉
         </span>
