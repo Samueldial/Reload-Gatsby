@@ -117,7 +117,6 @@ const IndexPage = () => {
         </span>
       </p>
       <ul style={listStyles}>
-       
         {links.map(link => (
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
             <span>
