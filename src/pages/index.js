@@ -94,6 +94,12 @@ const links = [
       "Testes com Tailwind",
     color: "#1099A8",
   },
+  {
+    text: "Repositório GitHub",
+    url: "https://github.com/Samueldial/Reload-Gatsby",
+    description:
+      "Repositório desse site",
+  }
 ]
 
 // markup
