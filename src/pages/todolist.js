@@ -25,12 +25,12 @@ const show = () => {
             <div class="p-6 max-w-sm mx-auto bg-grey rounded-xl shadow-md flex items-center space-x-12">
             <section class="md:flex bg-white-100 rounded-xl p-8 md:p-0">
             <ul id="todo-list" class="text-gray-500">
-                <li>Hit the gym <button class="flex-right py-2 px-4 font-semibold rounded-lg shadow-md text-white bg-red-500 hover:bg-red-700">X</button></li>
-                <li>Pay bills</li>
-                <li>Meet George</li>
-                <li>Buy eggs</li>
-                <li>Read a book</li>
-                <li>Organize office</li>
+                <li><input type="checkbox" class="form-checkbox h-4 w-4 text-red-600"></input><span class="ml-2 text-gray-700"> Ir para academia</span></li>
+                <li><input type="checkbox" class="form-checkbox h-4 w-4 text-red-600"></input><span class="ml-2 text-gray-700"> Jogar no jogo do bixo</span></li>
+                <li><input type="checkbox" class="form-checkbox h-4 w-4 text-red-600"></input><span class="ml-2 text-gray-700"> Ser preso por jogos ilegais</span></li>
+                <li><input type="checkbox" class="form-checkbox h-4 w-4 text-red-600"></input><span class="ml-2 text-gray-700"> Pagar fiança com o prêmio do jogo</span></li>
+                <li><input type="checkbox" class="form-checkbox h-4 w-4 text-red-600"></input><span class="ml-2 text-gray-700"> Andar de moto</span></li>
+                <li><input type="checkbox" class="form-checkbox h-4 w-4 text-red-600"></input><span class="ml-2 text-gray-700"> Ter noções estéticas</span></li>
             </ul>
             </section>
             </div>
